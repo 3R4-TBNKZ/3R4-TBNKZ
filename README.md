@@ -13,20 +13,21 @@
   <p>• My approach to hacking is rooted in curiosity. I believe that understanding the intricacies of systems and networks is essential.</p>
 </h2>
 ****
-
-<p align="center">
+<h3 align="center">
   <p>☠️ - Language I know 💖</p>
-  <img alt="Python" src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=Python">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5">
-  <img alt="C" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javaScript">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL">
-  <img alt="Script" src="https://img.shields.io/badge/SCRIPT-black?style=for-the-badge&logo=typescript">
-  <img alt="Json" src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON&logoColor=purple">
-  <img alt="React" src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react">
-  <img alt="Bash" src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=GNU%20bash">
-  <img alt="Docker" src="https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=Docker">
-  <img alt=".DOTNET" src="https://img.shields.io/badge/DOTNET-black?style=for-the-badge&logo=dotnet">
-  <img alt="NODE" src="https://img.shields.io/badge/NODE-black?style=for-the-badge&logo=node.js">
-</p>
+  <p>
+    <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=Python"></a>
+    <a href="https://www.w3.org/Style/CSS/"><img alt="CSS" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS"></a>
+    <a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5"></a>
+    <a href="https://www.cprogramming.com"><img alt="C" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B"></a>
+    <a href="https://www.javascript.com"><img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javaScript"></a>
+    <a href="https://www.mysql.com"><img alt="SQL" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL"></a>
+    <a href="https://www.typescriptlang.org"><img alt="Script" src="https://img.shields.io/badge/SCRIPT-black?style=for-the-badge&logo=typescript"></a>
+    <a href="https://www.json.org/json-en.html"><img alt="Json" src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON&logoColor=purple"></a>
+    <a href="https://react.dev"><img alt="React" src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react"></a>
+    <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=GNU%20bash"></a>
+    <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=Docker"></a>
+    <a href="https://dotnet.microsoft.com/en-us/"><img alt=".DOTNET" src="https://img.shields.io/badge/DOTNET-black?style=for-the-badge&logo=dotnet"></a>
+    <a href="https://nodejs.org/en"><img alt="NODE" src="https://img.shields.io/badge/NODE-black?style=for-the-badge&logo=node.js"></a>
+  </p>
+</h3>

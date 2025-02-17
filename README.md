@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/3R4-TBNKZ"><img src="https://github.com/3R4-TBNKZ/Book-s/blob/main/static/image/preview-banner-v1.png" alt="3R4" width="800"></a>
+  <a href="https://github.com/3R4-TBNKZ"><img src="https://github.com/3R4-TBNKZ/Book-s/blob/main/static/image/preview-banner-v1.png" alt="3R4"></a>
 </h1>
   <p align="center">
     <a href="https://hackaday.com"><img alt="Hackaday" src="https://img.shields.io/badge/Hackaday-black?style=for-the-badge&logo=hackaday"></a>
